@@ -1,0 +1,1 @@
+# PYTHON-image-bg-remover
